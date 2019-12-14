@@ -1,4 +1,4 @@
-# CSCE3530
+# CSCE3530 - Computer Networking
 Computer Networking
 
 These are 5 lab assignments that was done throughout the Fall 2019 semester. 
